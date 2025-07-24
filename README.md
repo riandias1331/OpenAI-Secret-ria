@@ -61,31 +61,3 @@ npm install
     "secretariaIA": "O horário de funcionamento da Pizzaria Bella Massa é todos os dias das 18h às 23h."
   }
 }
-```
-## 📽️ Videoaula
-
-- ▶️ Assista o passo a passo completo no YouTube:<br>
-[👉 Clique aqui para assistir](https://youtu.be/c37RlGlnI2k)
-
-## 🔗 Links úteis
-- [🔑 Obter sua API Key da OpenAI](https://platform.openai.com/api-keys)
-- [✨ Enviar Requisições HTTP](https://hoppscotch.io/)
-- [📘 Documentação oficial OpenAI](https://platform.openai.com/docs/api-reference/introduction)
-- [🎲 Tokenizer OpenAI](https://platform.openai.com/tokenizer)
-- [💻 Código-fonte no GitHub](https://github.com/GuitasGarage/OpenAI-Tutorial-2025?tab=readme-ov-file)
-
-## 💡 Ideias de Uso
-- Chatbots para sites
-
-- Automação de WhatsApp com inteligência
-
-- Respostas automáticas por e-mail
-
-- Atendimento 24h sem equipe humana
-
-- Suporte em lojas online
-
-## 🧠 Resultado
-> <strong>Você terá uma API REST simples, funcional, com linguagem natural e inteligência baseada no modelo oficial da OpenAI, pronta para ser integrada em qualquer aplicação moderna.</strong>
-
-# 📍 Por [samuelvictorol](https://samuelvictorol.github.io/portfolio)
